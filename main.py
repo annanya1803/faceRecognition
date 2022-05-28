@@ -1,7 +1,6 @@
 from tkinter import*
 from tkinter import ttk
 import tkinter
-from turtle import width
 from PIL import Image,ImageTk
 from student import Student
 import os
