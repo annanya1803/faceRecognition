@@ -1,7 +1,5 @@
 from tkinter import*
 from tkinter import ttk
-from turtle import bgcolor, width
-from unittest import result
 from PIL import Image,ImageTk
 from tkinter import messagebox
 import mysql.connector
