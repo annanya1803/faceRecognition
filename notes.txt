@@ -1,0 +1,6 @@
+//notes
+
+Will use tkinter that is used for creating GUI applications
+ttk is a module of tkinter that has stylish features
+Pillow library is used to insert images
+First will make the window using class Face_recog 
